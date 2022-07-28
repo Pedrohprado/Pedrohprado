@@ -1,7 +1,7 @@
 ## Oi, eu sou o Pedro Henrique
 
 - Estou aprendendo Desenvolvimento-Web/Front-End
-- Estudante de Ciências da Computação (Unisagrado)
+- Estudante de Ciências da Computação
 
 ### Contato:
 <div style="display: inline_block">
