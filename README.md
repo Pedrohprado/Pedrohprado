@@ -1,7 +1,6 @@
-## Oi, eu sou o Pedro Henrique
+## Oi, eu sou Pedro Henrique
 
 - Estou aprendendo Desenvolvimento-Web/Front-End
-- Estudante de Ciências da Computação
 
 ### Contato:
 <div style="display: inline_block">
