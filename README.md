@@ -1,6 +1,5 @@
 ## Oi, eu sou Pedro Henrique
-
-- Estou desenvolvendo as habilidades necessárias para atuar na área de Data Science/Data Analytics/Machine Learning
+###Desenvolvedor Front-End
 
 ### Contato:
 <div style="display: inline_block">
