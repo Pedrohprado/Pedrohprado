@@ -1,4 +1,4 @@
-## Oi, eu sou Pedro Henrique
+## Oi, eu sou o Pedro Henrique
 ### Desenvolvedor Front-End
 
 ### Contato:
